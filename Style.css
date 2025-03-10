@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  body {
+    background-color: #e6e6fa;
+  }
+  
+   h1{
+    color: purple;
+    text-align: center;
+    margin: 16px;
+    padding: 16px;
+    font-size: 40px;
+  }
+  .imagem {
+    display: flex;
+    justify-content: center;
+    height: 50% ;
+  }
+  h2{
+    color: purple;
+    margin: 35px;
+    font-size: 30px;
+  }
+  li{
+    font-size: 20px;
+    margin: 12px;
+  }
+  
+  .video{
+    float: right;
+    
+  }
+  
+  .receitas{
+   color: purple;
+   
+    
+
+ }
